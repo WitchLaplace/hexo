@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Laplace's world
 subtitle: ''
-description: ''
+description: “This is Laplace's world"
 keywords:
-author: John Doe
-language: en
+author: Witch Laplace
+language: zh-CN
 timezone: ''
 
 # URL
